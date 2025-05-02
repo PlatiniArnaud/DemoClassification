@@ -1,1 +1,1 @@
-This notebook demonstrates the use of classification models like Decition Tree and Logistic Regression.
+This notebook demonstrates the use of Linear Regression.
